@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity   {
         dialogFragment.show(getSupportFragmentManager(), "fullDialog");
 
 
+
  /*       Button btn = findViewById(R.id.button);
 
         btn.setOnClickListener(new View.OnClickListener() {

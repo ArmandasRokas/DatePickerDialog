@@ -12,4 +12,7 @@
         <item name="android:textColorPrimary">@color/colorAccent</item>
     </style>
 
+    <style name="SpinButton" parent="@android:style/Widget.DeviceDefault.Light.Spinner">
+    </style>
+
 </resources>
